@@ -1,5 +1,5 @@
 # Relatório RH - PowerBI
- Relatório de RH feito em PowerBI.
+ Relatório de RH feito em PowerBI =>
 
 - Funcionarios Ativos.
 - Total de Demissões.
